@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,14 +97,15 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16.663457"
-     inkscape:cy="30.876104"
+     inkscape:cx="34.968542"
+     inkscape:cy="31.011697"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="svg18"
+     inkscape:pagecheckerboard="true" />
   <ellipse
-     style="fill:#0066ff;stroke-width:0.9776594"
+     style="fill:#0066ff;stroke-width:0.50025307;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      id="path92"
      cx="36.480049"
      cy="25.435833"
@@ -111,7 +113,7 @@
      ry="29.201929"
      transform="matrix(0.98350376,0.18088766,-0.13647999,0.99064283,0,0)" />
   <ellipse
-     style="fill:#d5e5ff;stroke-width:1.0228529"
+     style="fill:#d5e5ff;stroke-width:0.50601624;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1"
      id="path96"
      cx="45.143059"
      cy="7.6591344"
