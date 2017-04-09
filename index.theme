@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Fire
 Comment=Icon theme based on Maia
-Inherits=maia, Oranchelo
+Inherits=maia-dark, Oranchelo
 
 Example=x-directory-normal
 
