@@ -15,11 +15,23 @@
    height="51.200001"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="evolution.svg"
    enable-background="new">
   <defs
      id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4590">
+      <stop
+         style="stop-color:#007fff;stop-opacity:1;"
+         offset="0"
+         id="stop4586" />
+      <stop
+         style="stop-color:#007fff;stop-opacity:0.73015875"
+         offset="1"
+         id="stop4588" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4207"
        osb:paint="gradient">
@@ -110,6 +122,15 @@
          in2="BackgroundImage"
          id="feBlend925" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4590"
+       id="linearGradient4592"
+       x1="452.97931"
+       y1="576.99506"
+       x2="419.83282"
+       y2="538.51428"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -119,8 +140,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.4456507"
-     inkscape:cx="29.397672"
-     inkscape:cy="24.641004"
+     inkscape:cx="27.266397"
+     inkscape:cy="22.746538"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -129,7 +150,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="701"
+     inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -283,7 +304,7 @@
           </g>
         </g>
         <rect
-           style="opacity:1;fill:#3366cc;fill-opacity:1;stroke:none;stroke-width:0.21505708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:url(#linearGradient4592);fill-opacity:1;stroke:none;stroke-width:0.21505708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4221"
            width="33.146481"
            height="38.480782"
