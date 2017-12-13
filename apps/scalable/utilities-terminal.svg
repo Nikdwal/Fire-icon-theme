@@ -16,20 +16,10 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="com.gexperts.Tilix.svg"
+   sodipodi:docname="utilities-terminal.svg"
    viewBox="0 0 512 512">
   <defs
      id="defs2987">
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect881"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1742">
@@ -164,38 +154,6 @@
        x2="149.72908"
        y2="-309.07935"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter1700-3">
-      <feFlood
-         flood-opacity="0.92549"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood1690-6" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite1692-7" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="2.4"
-         result="blur"
-         id="feGaussianBlur1694-5" />
-      <feOffset
-         dx="-10"
-         dy="9.1"
-         result="offset"
-         id="feOffset1696-3" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite1698-5" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -205,7 +163,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92187498"
-     inkscape:cx="212.78987"
+     inkscape:cx="238.82377"
      inkscape:cy="252.01823"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -250,7 +208,7 @@
        x="31.475668"
        y="-244.24197"
        id="text5213"
-       transform="matrix(1.1387621,0,0,1.1387621,2.2804592,46.747202)"><tspan
+       transform="matrix(1.1387621,0,0,1.1387621,29.738085,47.764151)"><tspan
          sodipodi:role="line"
          id="tspan4147"
          x="31.475668"
@@ -264,24 +222,5 @@
        inkscape:path-effect="#path-effect1522"
        inkscape:original-d="m 8.7785289,-360.57628 495.8628611,-0.0499 c 0,0 0.45447,-23.56697 0.68029,-35.34875 -7.67275,-3.17172 -23.02147,-9.51252 -23.02147,-9.51252 l -449.982175,-0.0818 c 0,0 -12.175907,3.42888 -18.266751,5.14514 -1.497431,5.63285 -4.4943743,16.89863 -4.4943743,16.89863 z"
        sodipodi:nodetypes="cccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.59964085px;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1700-3)"
-       x="31.475668"
-       y="-244.24197"
-       id="text5213-6"
-       transform="matrix(1.1387621,0,0,1.1387621,241.90409,45.899003)"><tspan
-         sodipodi:role="line"
-         id="tspan4147-2"
-         x="31.475668"
-         y="-244.24197"
-         style="font-size:117.21286774px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke-width:0">$_</tspan></text>
-    <path
-       style="fill:none;stroke:#cccccc;stroke-width:9.09375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 254.23728,-373.28812 c 1.01694,126.43974 2.03389,252.88042 3.05085,379.3220177"
-       id="path879"
-       inkscape:connector-curvature="0"
-       inkscape:path-effect="#path-effect881"
-       inkscape:original-d="m 254.23728,-373.28812 c 1.01789,126.43973 2.03483,252.88041 3.05085,379.3220177" />
   </g>
 </svg>

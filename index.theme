@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Fire
-Comment=Icon theme based on Maia
+Comment=Icon theme based on Maia (and some of oranchelo as well)
 Inherits=maia, Oranchelo
 
 Example=x-directory-normal
