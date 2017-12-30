@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="31.180213"
-     inkscape:cy="27.317438"
+     inkscape:cx="28.992713"
+     inkscape:cy="32.129938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,11 +43,11 @@
        inkscape:collect="always"
        id="linearGradient1002">
       <stop
-         style="stop-color:#008000;stop-opacity:1;"
+         style="stop-color:#009f00;stop-opacity:1"
          offset="0"
          id="stop998" />
       <stop
-         style="stop-color:#009200;stop-opacity:1"
+         style="stop-color:#00ad00;stop-opacity:1"
          offset="1"
          id="stop1000" />
     </linearGradient>
@@ -238,7 +238,7 @@
        fx="24.718651"
        fy="38.559662"
        r="22.711412"
-       gradientTransform="matrix(-0.72820589,-0.8310799,0.87964482,-0.77075927,16.784586,88.984092)"
+       gradientTransform="matrix(-0.72820589,-0.8310799,0.87964482,-0.77075927,16.784586,86.984092)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -258,27 +258,28 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 35.703125,38.095703 53.619141,54.935547 A 26.162951,26.162951 0 0 0 61.498047,36.257812 26.162951,26.162951 0 0 0 55.636719,19.785156 Z"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 35.703125,36.095703 53.619141,52.935547 A 26.162951,26.162951 0 0 0 61.498047,34.257812 26.162951,26.162951 0 0 0 55.636719,17.785156 Z"
        id="path4664"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:url(#radialGradient1004);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 32.335938 10.720703 A 26.162951 26.162951 0 0 0 6.1738281 36.882812 A 26.162951 26.162951 0 0 0 32.335938 63.044922 A 26.162951 26.162951 0 0 0 50.619141 55.560547 L 32.703125 38.720703 L 32.703125 10.738281 A 26.162951 26.162951 0 0 0 32.335938 10.720703 z "
-       id="path4655" />
+       style="opacity:1;fill:url(#radialGradient1004);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 32.335938,8.720703 A 26.162951,26.162951 0 0 0 6.1738281,34.882812 26.162951,26.162951 0 0 0 32.335938,61.044922 26.162951,26.162951 0 0 0 50.619141,53.560547 L 32.703125,36.720703 V 8.738281 A 26.162951,26.162951 0 0 0 32.335938,8.720703 Z"
+       id="path4655"
+       inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 37.652873,32.268354 57.586467,13.957807 A 26.162951,26.162951 0 0 0 52.072795,8.8464791 Z"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 37.652873,30.268354 57.586467,11.957807 A 26.162951,26.162951 0 0 0 52.072795,6.8464791 Z"
        id="path4650"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 34.205727,5.7885335 V 33.770956 L 48.625649,10.349081 A 26.162951,26.162951 0 0 0 34.205727,5.7885335 Z"
+       style="opacity:1;fill:#1717ff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 34.205727,3.7885335 V 31.770956 L 48.625649,8.349081 A 26.162951,26.162951 0 0 0 34.205727,3.7885335 Z"
        id="path4638"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 33.852737,35.538952 Z"
+       d="M 33.852737,33.538952 Z"
        id="path4657"
        inkscape:connector-curvature="0" />
   </g>
