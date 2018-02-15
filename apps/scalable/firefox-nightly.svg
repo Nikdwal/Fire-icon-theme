@@ -19,6 +19,18 @@
   <defs
      id="defs3905">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4274">
+      <stop
+         style="stop-color:#d650ff;stop-opacity:1;"
+         offset="0"
+         id="stop4270" />
+      <stop
+         style="stop-color:#eb63ff;stop-opacity:1"
+         offset="1"
+         id="stop4272" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient7509">
       <stop
          style="stop-color:#000d0e;stop-opacity:1"
@@ -149,6 +161,15 @@
        y2="-342.88498"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1e-6,-8.1e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="linearGradient4276"
+       x1="31.083275"
+       y1="18.987574"
+       x2="15.10629"
+       y2="2.4352593"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -158,7 +179,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87499999"
-     inkscape:cx="232.36398"
+     inkscape:cx="204.93541"
      inkscape:cy="270.62578"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -239,7 +260,7 @@
            inkscape:connector-curvature="0"
            id="path3779"
            d="m 12.629019,1.0520127 c -0.439736,2.876156 0.511967,7.3069165 2.805482,9.2505103 -1.462051,1.3352 -2.332898,3.06124 -2.236803,5.156022 L 25.746546,28.424423 38.674512,15.496457 C 38.529233,13.590893 37.744278,12.010043 36.551444,10.757466 39.337446,9.1886569 40.520595,4.199721 40.039341,1.0520127 38.830674,1.4454197 34.991361,2.0468924 32.987723,4.426174 31.975922,5.6276686 32.127695,6.8305084 31.964101,7.989895 28.492593,6.7885353 24.243811,6.696903 20.666348,7.6486878 20.564889,6.5930678 20.594485,5.511352 19.680637,4.426174 17.677001,2.0468924 13.837686,1.4454197 12.629019,1.0520127 Z"
-           style="fill:#d650ff;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+           style="fill:url(#linearGradient4276);fill-opacity:1;stroke:none;stroke-width:1.06666672" />
         <path
            style="fill:#fdfefe;fill-opacity:1;stroke:none;stroke-width:1.06666672"
            d="m 13.256085,15.474793 c 0,0 3.227931,-0.173312 5.816775,0.888221 2.588842,1.061534 4.309269,3.658581 3.139414,8.424652 z"

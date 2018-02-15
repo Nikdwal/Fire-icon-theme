@@ -15,7 +15,7 @@
    viewBox="0 0 48 48.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="matlab.svg">
   <defs
      id="defs4">
@@ -39,7 +39,7 @@
          offset="0"
          id="stop4811" />
       <stop
-         style="stop-color:#ff7f2a;stop-opacity:1"
+         style="stop-color:#ffc91b;stop-opacity:1"
          offset="1"
          id="stop4813" />
     </linearGradient>
@@ -47,19 +47,19 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4809"
        id="linearGradient4815"
-       x1="16.440233"
-       y1="1039.1924"
-       x2="35.620502"
-       y2="1010.9081"
+       x1="30.405592"
+       y1="1033.3588"
+       x2="32.000004"
+       y2="1009.9384"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4861"
        id="linearGradient4867"
-       x1="3.4545259"
-       y1="18.084646"
-       x2="32.020586"
-       y2="18.084646"
+       x1="19.832031"
+       y1="21.496094"
+       x2="32.000687"
+       y2="3.5306194"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -69,14 +69,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="7.3324817"
-     inkscape:cy="28.74661"
+     inkscape:zoom="4"
+     inkscape:cx="7.8912048"
+     inkscape:cy="0.21629715"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     borderlayer="false" />
+     borderlayer="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -85,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

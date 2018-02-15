@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128px"
@@ -15,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="calibre-viewer.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="28.364531"
-     inkscape:cy="60.51405"
+     inkscape:zoom="4"
+     inkscape:cx="71.680625"
+     inkscape:cy="71.550546"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="698"
+     inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +39,18 @@
      inkscape:pagecheckerboard="true" />
   <defs
      id="defs4485">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7138">
+      <stop
+         style="stop-color:#00bc35;stop-opacity:1"
+         offset="0"
+         id="stop7134" />
+      <stop
+         style="stop-color:#00d023;stop-opacity:1"
+         offset="1"
+         id="stop7136" />
+    </linearGradient>
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -110,6 +123,15 @@
          style="stop-color:#f9f9f9;stop-opacity:1"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7138"
+       id="linearGradient7140"
+       x1="29.725361"
+       y1="72.61544"
+       x2="95.331215"
+       y2="70.511375"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4488">
@@ -194,7 +216,7 @@
            height="106.25"
            width="80.25"
            id="rect5088"
-           style="opacity:1;fill:#00a31c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75212598;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+           style="opacity:1;fill:url(#linearGradient7140);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75212598;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
       </g>
       <rect
          transform="matrix(0.97456745,-0.22409435,0.21042475,0.97761006,0,0)"
