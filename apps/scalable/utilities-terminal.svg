@@ -15,7 +15,7 @@
    height="546.13336"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="utilities-terminal.svg"
    viewBox="0 0 512 512">
   <defs
@@ -155,26 +155,26 @@
        x2="149.72908"
        y2="-309.07935"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.0169491,8.135593)" />
+       gradientTransform="matrix(1.009,0,0,1.009,-1.2967762,9.9196798)" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#bc9bff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92187498"
-     inkscape:cx="212.78987"
+     inkscape:cx="257.26445"
      inkscape:cy="252.01823"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="720"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-text-baseline="true"
      inkscape:pagecheckerboard="false"
@@ -187,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,13 +197,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,448)">
     <rect
-       style="fill:url(#linearGradient1744);fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:9.37874985;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient1744);fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:3.21997118;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2993-5-6"
-       width="486.05859"
-       height="404.38434"
-       x="15.068233"
-       y="-392.28845"
-       ry="22.817963" />
+       width="490.43314"
+       height="408.0238"
+       x="12.880969"
+       y="-394.10818"
+       ry="23.023325" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.59964085px;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1700)"
