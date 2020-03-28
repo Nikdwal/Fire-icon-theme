@@ -42,37 +42,37 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="6.8982071"
-     inkscape:cx="17.436427"
-     inkscape:cy="27.32873"
+     inkscape:cx="27.135941"
+     inkscape:cy="22.298692"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <rect
-     style="fill:#f88c16;fill-opacity:1;stroke:#e47a06;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f88910;fill-opacity:1;stroke:#e47a06;stroke-width:2.056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect7300"
-     width="48.853275"
-     height="48.853275"
-     x="22.211924"
-     y="-26.147051"
-     ry="12.322004"
-     transform="rotate(46.695889)" />
+     width="45.338184"
+     height="45.338184"
+     x="23.19458"
+     y="-24.334541"
+     ry="11.43541"
+     transform="rotate(45.22539)" />
   <circle
-     style="fill:#ebf200;fill-opacity:0.22099447;stroke:#e6e6e6;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ebf200;fill-opacity:0.22099448;stroke:#e6e6e6;stroke-width:2.59853435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path7302"
-     cx="33.00909"
-     cy="32.556007"
-     r="18.778337" />
+     cx="33.270668"
+     cy="31.195513"
+     r="17.427198" />
   <circle
-     style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:2.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:2.13451028;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path7302-3"
-     cx="33.341999"
-     cy="32.252621"
-     r="9.7563534" />
+     cx="33.579624"
+     cy="30.913958"
+     r="9.0543642" />
   <circle
-     style="fill:#c86b06;fill-opacity:1;stroke:none;stroke-width:2.04827571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c86b06;fill-opacity:1;stroke:none;stroke-width:1.90089822;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path7319"
-     cx="33.341999"
-     cy="32.397587"
-     r="4.7838516" />
+     cx="33.656502"
+     cy="31.022863"
+     r="4.4396439" />
 </svg>
